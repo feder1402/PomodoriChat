@@ -1,13 +1,12 @@
 {
-  "main":"com.godaddy.gce.DanChatServer",
-  "description":"Simple Team Chat with Multiroom Support",
+  "main":"com.godaddy.gce.PomodoriChatServer",
+  "description":"Simple Team Chat with Multiroom and Pomodori Support",
   "licenses": ["The Apache Software License Version 2.0"],
   "author": "Federico Raggi",
 
   "developers": ["Federico Raggi"],
-  "keywords": ["gerbils", "cars", "cheese", "chocolate", "underpants", "herring"],
-  "homepage": "https://github.com/feder1402/danchat",
+  "keywords": ["chat", "pomodori"],
+  "homepage": "https://github.com/feder1402/PomodoriChat",
 
   "auto-redeploy": true
-
 }
