@@ -1,5 +1,5 @@
 {
-  "main":"com.godaddy.gce.PomodoriChatServer",
+  "main":"com.godaddy.gce.pomodori.PomodoriChatServer",
   "description":"Simple Team Chat with Multiroom and Pomodori Support",
   "licenses": ["The Apache Software License Version 2.0"],
   "author": "Federico Raggi",
